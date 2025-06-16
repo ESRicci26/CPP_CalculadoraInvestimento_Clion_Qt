@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">  <!-- Adicione o prefixo aqui -->
+        <file>imagens/calculadorahp.png</file>
+        <file>imagens/calculadora.png</file>
+        <file>imagens/limpar-limpo.png</file>
+        <file>imagens/modelocomaporte.png</file>
+        <file>imagens/modelosemaporte.png</file>
+    </qresource>
+</RCC>
